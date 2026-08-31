@@ -1,3 +1,2 @@
 Reset practice - commit 1
 Reset practice - commit 2
-Revert practice - commit to undo
